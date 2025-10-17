@@ -1,1 +1,8 @@
-var json_trafficsigns3_13 = {"type":"FeatureCollection","name":"trafficsigns3_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"สามแยกไฟแดง","description":null,"timestamp":null,"begin":null,"end":null,"altitudeMode":null,"tessellate":-1.0,"extrude":0.0,"visibility":-1.0,"drawOrder":null,"icon":null},"geometry":{"type":"Point","coordinates":[102.815195745692805,16.464834975163281]}}]}
+var json_trafficsigns3_13 = {
+"type": "FeatureCollection",
+"name": "trafficsigns3_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "Name": "สามแยกไฟแดง", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1.0, "extrude": 0.0, "visibility": -1.0, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 102.815195745692805, 16.464834975163281 ] } }
+]
+}
